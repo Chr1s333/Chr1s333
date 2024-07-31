@@ -12,7 +12,7 @@
 
 - 🌐 Visit My [Portfolio](https://chris-beno-portfolio.netlify.app)
 
-- ⚡ I'm bilingual - **German**
+- ⚡ I'm bilingual - **Ich Spreche Deutsch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
