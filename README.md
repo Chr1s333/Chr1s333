@@ -12,15 +12,20 @@
 
 - 🌐 Visit My **[Portfolio](https://chris-beno-portfolio.netlify.app)**
 
-- ⚡ I'm bilingual - **Ich Spreche Deutsch  🇩🇪**
+- ⚡ I'm Bilingual - **Ich Spreche Deutsch  🇩🇪**
 
 ### 🤝 Connect with me:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/chris-beno-j" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chris" height="30" width="40" /></a>
-<a href="https://www.instagram.com/chris._.333?igsh=NmlkdGU1bTV3d2cz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chris_333" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/chris-beno-j/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chris" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chris._.333" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chris" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Chris_333/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chris" height="30" width="40" /></a>
+<a href="https://x.com/Chr1s_333" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="40" width="40" /></a>
+<a href="mailto:profchris333@gmail.com">
+<img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" height="40" width="40"/></a>
+<a href="https://www.reddit.com/u/Chr1s_333" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" alt="Reddit" height="40" width="40" /></a>
+
 
 ### 🧑‍💻 Languages:
 
