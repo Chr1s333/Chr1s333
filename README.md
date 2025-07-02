@@ -31,13 +31,13 @@
 ### 🧑‍💻 Languages:
 
 <p align="left">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chr1s333&layout=compact&theme=radical" alt="Top Languages"/>
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/>
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"/>
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"/>
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chr1s333&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ### ⚙️ Frameworks and Libraries:
