@@ -1,5 +1,5 @@
 [![Programmer](https://github.com/Chr1s333/Chr1s333/blob/main/programmer.gif?raw=true)](https://chris-beno-portfolio.netlify.app)
-<h1 align="center">Hi 👋, I'm Chris</h1>
+<h1 align="center">Hey 👋, I'm Chris</h1>
 <h2 align="center">Python Software Developer | Web Developer | Specializing in IoT</h2>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRpd2hpbnEybmNncG1wYWF1bTB5dXVleW40cjg1aWt1bTJ4OGh5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
