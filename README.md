@@ -16,7 +16,7 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/chris-beno-j/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chris" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chris-beno-j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chris" height="30" width="40" /></a>
 <a href="https://www.instagram.com/chris._.333" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chris" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Chris_333/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chris" height="30" width="40" /></a>
 <a href="https://x.com/Chr1s_333" target="_blank">
