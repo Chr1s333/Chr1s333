@@ -2,15 +2,15 @@
 <h1 align="center">Hello 👋, I'm Chris Beno J</h1><br>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRpd2hpbnEybmNncG1wYWF1bTB5dXVleW40cjg1aWt1bTJ4OGh5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🔭 I’m currently pursuing **B.Tech Computer Science**
+- 🔭 I’m a **B.Tech Computer Science Graduate**
 
 - 🌱 I’m currently focused on **Fullstack**
 
 - 💬 Ask me about **Python , DBMS**
 
-- 📫 How to reach me **chrisbeno333@gmail.com**
+- 📫 How to reach me **[profchris333@gmail.com](mailto:profchris333@gmail.com)**
 
-- 🌐 Visit My [Portfolio](https://chris-beno-portfolio.netlify.app)
+- 🌐 Visit My **[Portfolio](https://chris-beno-portfolio.netlify.app)**
 
 - ⚡ I'm bilingual - **Ich Spreche Deutsch**
 
