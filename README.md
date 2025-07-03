@@ -56,7 +56,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub Light"/>
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
-<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>  <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android"/>
+<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>  <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"/>
 <img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino"/>
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase"/> 
 <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
