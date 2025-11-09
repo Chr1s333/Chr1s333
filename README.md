@@ -48,7 +48,7 @@
 <p align="left">
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass"/><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/>
-<img height="50" width="100" src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib"/>
+<img height="50" width="100" src="https://github.com/Chr1s333/Chr1s333/blob/main/Matplotlib.png?raw=true" alt="Matplotlib"/>
 <img height="50" width="180" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" alt="Streamlit"/>
 </p>
 
