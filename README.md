@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python , DBMS**
 
-- 📬 Reach me at **[profchris333@gmail.com](mailto:profchris333@gmail.com)**
+- 📬 Reach me at **[chrisbenoj@gmail.com](mailto:chrisbenoj@gmail.com)**
 
 - 🌐 Visit My **[Portfolio](https://chris-beno-portfolio.netlify.app)**
 
@@ -21,15 +21,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/chris-beno-j/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chris" height="30" width="40" /></a>
-<a href="https://www.instagram.com/chris._.333"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chris" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Chris_333/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chris" height="30" width="40" /></a>
-<a href="https://x.com/Chr1s_333">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="40" width="40" /></a>
-<a href="mailto:profchris333@gmail.com">
+<a href="mailto:chrisbenoj@gmail.com">
 <img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" height="40" width="40"/></a>
-<a href="https://www.reddit.com/u/Chr1s_333">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" alt="Reddit" height="40" width="40" /></a>
-</p>
 
 ### 🧑‍💻 Languages:
 
@@ -40,8 +34,7 @@
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"/>
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"/>
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chr1s333&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+
 
 ### ⚙️ Frameworks and Libraries:
 
